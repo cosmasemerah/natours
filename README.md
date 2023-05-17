@@ -1,4 +1,4 @@
 # Natours Project
 
 A simple tourism website
-Live at https://costech95.github.io/natours/
+Live at https://cosmasemerah.github.io/natours/
